@@ -6,7 +6,7 @@ onnxwildlife : PyTorch Image Classification Model # BigQuery # ONNX
 - Classify images using the ONNX model via BigQuery.
 
 
-## Wild Life Image Classification using PyTorch ONNX Model
+## Wildlife Image Classification using PyTorch ONNX Model
 
 
 ![onnxwildlife001.png](./media/onnxwildlife001.png)
